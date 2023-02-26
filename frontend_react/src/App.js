@@ -13,7 +13,7 @@ import { Navbar } from "./components";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Navbar />
       <Header />
       <About />
