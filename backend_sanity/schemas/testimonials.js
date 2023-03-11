@@ -9,12 +9,12 @@ export default {
       type: 'string',
     },
     {
-      name: 'compoany',
+      name: 'company',
       title: 'Company',
       type: 'string',
     },
     {
-      name: 'imageurl',
+      name: 'imgurl',
       title: 'ImgUrl',
       type: 'image',
       options: {
